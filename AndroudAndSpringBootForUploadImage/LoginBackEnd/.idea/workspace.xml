@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="login-backend:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80b65e07-fa6b-4daf-8958-313057657f67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadTest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadTest/app/src/main/java/com/example/uploadtest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadTest/app/src/main/java/com/example/uploadtest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadTest/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSlCs5UFcafSTGMnRURshuq8je" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561274761756" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3402299" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.heuet.android.logindemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workspaces\IDEA\LoginBackEnd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.53">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.heuet.android.logindemo.App" />
+      <module name="login-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.heuet.android.logindemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[mybatis-generator:generate]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.0.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="login-backend:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/login_backend_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_LoginBackEnd" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59834" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="login-backend:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.[mybatis-generator:generate]" />
+      <item itemvalue="Tomcat Server.Tomcat 8.0.53" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b65e07-fa6b-4daf-8958-313057657f67" name="Default Changelist" comment="" />
+      <created>1559268233370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559268233370</updated>
+      <workItem from="1559268237093" duration="17317000" />
+      <workItem from="1559354228690" duration="13054000" />
+      <workItem from="1559394199706" duration="9027000" />
+      <workItem from="1559445804364" duration="4469000" />
+      <workItem from="1559468067786" duration="8950000" />
+      <workItem from="1559527448847" duration="10033000" />
+      <workItem from="1559572815076" duration="3139000" />
+      <workItem from="1559605574470" duration="3897000" />
+      <workItem from="1559619196991" duration="6681000" />
+      <workItem from="1559648569559" duration="5668000" />
+      <workItem from="1559655354184" duration="1500000" />
+      <workItem from="1559656912768" duration="748000" />
+      <workItem from="1559724054553" duration="3622000" />
+      <workItem from="1559730116721" duration="1772000" />
+      <workItem from="1559749533592" duration="4140000" />
+      <workItem from="1559781607326" duration="5372000" />
+      <workItem from="1559795804426" duration="4142000" />
+      <workItem from="1559816168333" duration="2126000" />
+      <workItem from="1559833190078" duration="3800000" />
+      <workItem from="1559876845908" duration="5437000" />
+      <workItem from="1560914730644" duration="3628000" />
+      <workItem from="1561009770780" duration="303000" />
+      <workItem from="1561020115212" duration="1318000" />
+      <workItem from="1561022042463" duration="179000" />
+      <workItem from="1561022302747" duration="385000" />
+      <workItem from="1561022763744" duration="82000" />
+      <workItem from="1561129852481" duration="982000" />
+      <workItem from="1561169309923" duration="903000" />
+      <workItem from="1561171787137" duration="2091000" />
+      <workItem from="1561177578629" duration="648000" />
+      <workItem from="1561182921998" duration="47000" />
+      <workItem from="1561270243303" duration="3838000" />
+      <workItem from="1579150754663" duration="2567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="189" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579150955564">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state x="189" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1468.864@0.0.1468.864" timestamp="1579150955564" />
+    <state width="1425" height="329" key="GridCell.Tab.0.bottom" timestamp="1579181410314">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.0.bottom/0.0.1468.864@0.0.1468.864" timestamp="1579181410314" />
+    <state width="1425" height="329" key="GridCell.Tab.0.center" timestamp="1579181410314">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.0.center/0.0.1468.864@0.0.1468.864" timestamp="1579181410314" />
+    <state width="1425" height="329" key="GridCell.Tab.0.left" timestamp="1579181410314">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.0.left/0.0.1468.864@0.0.1468.864" timestamp="1579181410314" />
+    <state width="1425" height="329" key="GridCell.Tab.0.right" timestamp="1579181410314">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.0.right/0.0.1468.864@0.0.1468.864" timestamp="1579181410314" />
+    <state width="1425" height="329" key="GridCell.Tab.1.bottom" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.1.bottom/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+    <state width="1425" height="329" key="GridCell.Tab.1.center" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.1.center/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+    <state width="1425" height="329" key="GridCell.Tab.1.left" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.1.left/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+    <state width="1425" height="329" key="GridCell.Tab.1.right" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.1.right/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+    <state width="1425" height="329" key="GridCell.Tab.2.bottom" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.2.bottom/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+    <state width="1425" height="329" key="GridCell.Tab.2.center" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.2.center/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+    <state width="1425" height="329" key="GridCell.Tab.2.left" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.2.left/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+    <state width="1425" height="329" key="GridCell.Tab.2.right" timestamp="1579181410315">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state width="1425" height="329" key="GridCell.Tab.2.right/0.0.1468.864@0.0.1468.864" timestamp="1579181410315" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ex" />
+        <watch expression="((RequestFacade)request).request" custom="org.apache.catalina.connector.RequestFacade" />
+        <watch expression="httpServletRequest.getSession()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>login-backend</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
