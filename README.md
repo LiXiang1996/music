@@ -1,10 +1,6 @@
 # JavaEE、Android、iOS、Linux、算法等源码
 
-## 更新说明
 
-我把代码都压缩了一份，如果想下载的话，不用clone全部仓库，**zip文件支持单独下载** 。
-
-**点击下方下载链接可以进行单独下载**
 
 ### Android相关
 
@@ -65,7 +61,5 @@
 
 1. 编程珠玑相关代码 [Programming Pearls.zip](https://gitee.com/littlecurl/AppProjects/raw/master/Programming%20Pearls.zip)
 
-### 其它
 
-1. 炫酷的动态版个人简历 [resume(JS).zip](https://gitee.com/littlecurl/AppProjects/raw/master/resume(JS).zip)
 
